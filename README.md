@@ -1,1 +1,1 @@
-# aws-lambda-em-golang
+# Lambda em Go na AWS
